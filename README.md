@@ -43,5 +43,11 @@ A few of the things you can do with Notio:
     <img src="https://github.com/rahat-limit/anihd-FLUTTER-APP/blob/main/assets/img/Hotpot%204.png" width=200>
 </p>
 
+## ✖️ Приложение временно не доступно на IOS, так как на данный момент нету подписки Apple Developer Account, чтобы заполнить Лицензионное соглашение Apple Developer Program. 
+
+<p align="center">
+  <img src = "https://github.com/rahat-limit/anihd-FLUTTER-APP/blob/main/assets/img/Снимок%20экрана%202024-07-01%20в%2013.56.46.png" width=800>
+</p>
+
 <h3>Thank you to all!</h3>
 
